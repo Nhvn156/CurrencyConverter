@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="desc_toggle_currencies">chuyển đơn vị tiền tệ</string>
+    <string name="rates_date_latest">Tỷ giá vào &lt;b&gt;%1$s&lt;/b&gt;, được cung cấp bởi &lt;b&gt;%2$s&lt;/b&gt;</string>
+    <string name="rates_date_historical">Tỷ giá trong quá khứ vào &lt;b&gt;%1$s&lt;/b&gt;, được cung cấp bởi &lt;b&gt;%2$s&lt;/b&gt;</string>
+    <string name="copied_to_clipboard">Đã sao chép &lt;b&gt;%s&lt;/b&gt; vào bộ nhớ tạm</string>
+    <string name="historical_rates_dialog_title">Tỷ giá trong quá khứ</string>
+    <string name="historical_rates_dialog_toggle">Sử dụng tỷ giá hối đoái của một ngày cụ thể. Tắt cài đặt này để luôn sử dụng tỷ giá mới nhất.</string>
+    <string name="error">Lỗi: %s</string>
+    <string name="error_generic">Sự cố không xác định.</string>
+    <string name="error_http">Máy chủ trả về HTTP %d.</string>
+    <string name="error_timeout">Máy chủ không phản hồi kịp hoặc không kết nối đến được.</string>
+    <string name="error_no_data">Không thể kết nối đến máy chủ.</string>
+    <string name="error_empty_response">Máy chủ không có dữ liệu đáp lại yêu cầu này.</string>
+    <string name="error_api_error">Đã xảy ra lỗi API. Vui lòng thử lại sau.</string>
+    <string name="error_try_another_api">Tuy nhiên, trong cài đặt có những nhà cung cấp dữ liệu khác mà bạn có thể chọn. Cứ thử đi!</string>
+    <string name="error_no_api_key">Bạn phải nhập mã API hợp lệ để sử dụng Nguồn này.</string>
+    <string name="error_invalid_api_key">HTTP 401 – Vui lòng kiểm tra mã API của bạn.</string>
+    <string name="error_unsupported_timeline">Dữ liệu dòng thời gian không được API này hỗ trợ.</string>
+    <string name="menu_settings">Cài đặt</string>
+    <string name="menu_refresh">Làm mới tỷ giá</string>
+    <string name="menu_timeline">Biểu đồ tỷ giá hối đoái</string>
+    <string name="tooltip_filter_starred">Chỉ hiện đơn vị tiền tệ nào được gắn sao.</string>
+    <string name="currency_dropdown_api_hint">Có thứ gì bị thiếu à? Những nhà cung cấp dữ liệu khác nhau sẽ có các tiền tệ khác nhau. Hãy đến cài đặt để thử nhà cung cấp khác! 🤗</string>
+</resources>

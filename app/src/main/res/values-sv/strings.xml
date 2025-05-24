@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="desc_toggle_currencies">byt plats på valutor</string>
+    <string name="rates_date_latest">Kurser från &lt;b&gt;%1$s&lt;/b&gt; via &lt;b&gt;%2$s&lt;/b&gt;</string>
+    <string name="rates_date_historical">Historiska kurser från &lt;b&gt;%1$s&lt;/b&gt; via &lt;b&gt;%2$s&lt;/b&gt;</string>
+    <string name="copied_to_clipboard">Kopierade &lt;b&gt;%s&lt;/b&gt; till urklipp</string>
+    <string name="historical_rates_dialog_title">Historiska kurser</string>
+    <string name="historical_rates_dialog_toggle">Använd växlingskurser från ett specifikt datum. Inaktivera för att använda de senaste kurserna.</string>
+    <string name="error">Fel: %s</string>
+    <string name="error_generic">Okänt problem.</string>
+    <string name="error_http">Servern svarade med HTTP %d.</string>
+    <string name="error_timeout">Servern svarade inte i tid eller går inte att nå.</string>
+    <string name="error_no_data">Kunde inte ansluta till servern.</string>
+    <string name="error_api_error">Ett API-fel har inträffat. Försök igen senare.</string>
+    <string name="menu_settings">Inställningar</string>
+    <string name="menu_refresh">Uppdatera kurser</string>
+    <string name="menu_timeline">Diagram över valutakurs</string>
+    <string name="tooltip_filter_starred">Visa endast favoritvalutor.</string>
+    <string name="error_empty_response">Servern har ingen data för denna förfrågan.</string>
+    <string name="error_try_another_api">Men det finns andra dataleverantörer som du kan välja på i inställningarna. Prova!</string>
+    <string name="error_no_api_key">En giltig API-nyckel måste ha angetts för att kunna använda denna källa.</string>
+    <string name="error_invalid_api_key">HTTP 401 – Kontrollera din API-nyckel.</string>
+    <string name="error_unsupported_timeline">Tidslinjesdata stöds inte med detta API.</string>
+    <string name="currency_dropdown_api_hint">Saknas något? Olika dataleverantörer tillhandahåller olika valutor. Gå till inställningarna och prova en annan! 🤗</string>
+</resources>
